@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "is-odd": "^3.0.1",
-    "lodash": "^4.17.21"
-  }
-}
