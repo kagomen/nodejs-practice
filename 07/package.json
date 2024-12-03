@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node index.mjs",
+    "greet": "echo \"hello world!\"",
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
