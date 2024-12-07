@@ -5,4 +5,4 @@ import { fn } from "./sub.js";
 fn();
 
 import isOdd from "is-odd";
-console.log(isOdd(1));
+console.log(3, isOdd(3));

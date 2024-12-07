@@ -36,7 +36,7 @@ eval("/*!\n * is-odd <https://github.com/jonschlinkert/is-odd>\n *\n * Copyright
   \*****************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sub_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sub.js */ \"./sub.js\");\n/* harmony import */ var is_odd__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! is-odd */ \"./node_modules/is-odd/index.js\");\n// const myModule = require(\"./sub\");\n// myModule.fn();\n\n\n(0,_sub_js__WEBPACK_IMPORTED_MODULE_0__.fn)();\n\n\nconsole.log(is_odd__WEBPACK_IMPORTED_MODULE_1__(1));\n\n\n//# sourceURL=webpack:///./main.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sub_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sub.js */ \"./sub.js\");\n/* harmony import */ var is_odd__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! is-odd */ \"./node_modules/is-odd/index.js\");\n// const myModule = require(\"./sub\");\n// myModule.fn();\n\n\n(0,_sub_js__WEBPACK_IMPORTED_MODULE_0__.fn)();\n\n\nconsole.log(3, is_odd__WEBPACK_IMPORTED_MODULE_1__(3));\n\n\n//# sourceURL=webpack:///./main.js?");
 
 /***/ }),
 

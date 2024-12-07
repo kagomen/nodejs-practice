@@ -9,7 +9,7 @@ export default {
     port: 9000,
     open: true,
     static: {
-      directory: `${import.meta.dirname}`,
+      directory: import.meta.dirname,
     },
   },
 };
