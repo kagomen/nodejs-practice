@@ -1,0 +1,36 @@
+###
+
+GET http://localhost:8080/products
+
+###
+
+POST http://localhost:8080/create-product
+content-type: application/json
+
+{
+  "id": 4,
+  "name": "商品4",
+  "price": 150
+}
+
+###
+
+POST http://localhost:8080/delete-product
+content-type: application/json
+
+{
+  "id": 2
+}
+
+###
+
+POST http://localhost:8080/update-product
+content-type: application/json
+
+{
+  "id": 3,
+  "name": "新商品3",
+  "price": 800
+}
+
+###
